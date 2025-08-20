@@ -54,7 +54,7 @@ body {
   }
 
   footer {
-    background-color: #b362c7;
+    background-color: #913db3;
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 1rem;
@@ -84,7 +84,7 @@ body {
   
   #btnTopo:hover {
     background: #b362c7;
-    background-color:#f1f8f4 ;
+    background-color:#000000 ;
   }
 
 
